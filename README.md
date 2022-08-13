@@ -1,7 +1,7 @@
 # Oi! Eu sou a Nathália! 
 
-- 🔭 Tenho conhecimentos em HTML, CSS e Lógica da Programação
-- 🌱 Atualmente estou estudando JavaScript
+- 🔭 Tenho conhecimentos em HTML, CSS, Lógica da Programação e JavaScript
+- 🌱 Atualmente estou estudando Swift
 - 😄 Pronomes: ela/dela
 
 <div>
