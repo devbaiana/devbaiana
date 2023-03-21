@@ -16,8 +16,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://user-images.githubusercontent.com/104855/37220777-e3448dd6-2384-11e8-8614-5cb2c373bf79.png">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://ultimateqa.com/wp-content/uploads/2020/12/Java-logo-icon-1.png">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfa85E-TlAto8koV5Z-PhTktIcGg9BykrlhGURah0BpXZZJy5jhMfV6xNVVJr9EuQ_xFs&usqp=CAU">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://www.ifpe.edu.br/campus/palmares/noticias/divulgado-resultado-do-curso-de-extensao-em-java/javalogo.png">
 </div>
 
 ##
