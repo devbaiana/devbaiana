@@ -1,7 +1,7 @@
 # Oi! Eu sou a Nathália! 
 
-- 🔭 Tenho conhecimentos em HTML, CSS, Lógica da Programação e JavaScript
-- 🌱 Atualmente estou estudando Swift
+- 🔭 Tenho conhecimentos em HTML, CSS, Lógica da Programação, JavaScript e Swift!
+- 🌱 Atualmente estou estudando Java
 - 😄 Pronomes: ela/dela
 
 <div>
@@ -16,6 +16,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://user-images.githubusercontent.com/104855/37220777-e3448dd6-2384-11e8-8614-5cb2c373bf79.png">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://ultimateqa.com/wp-content/uploads/2020/12/Java-logo-icon-1.png">
 </div>
 
 ##
